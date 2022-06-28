@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello-ptc:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-06-28T20:16:51.4732167+01:00"
+    description: A Helm chart for Kubernetes
+    digest: cfa0a2dcbc3001961e52d62fc0d306f6edeb0a2c4b7a895aad283916c9bc0ba8
+    name: hello-ptc
+    type: application
+    urls:
+    - https://russelchowdhury.github.io/helm-charts/hello-ptc-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-28T20:16:51.4721276+01:00"
